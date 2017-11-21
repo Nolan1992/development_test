@@ -1,0 +1,5 @@
+nolan is cool
+import nolan
+import cool
+
+nolan !=  cool
